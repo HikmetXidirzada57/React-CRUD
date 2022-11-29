@@ -1,0 +1,55 @@
+{
+  "products": [
+    {
+      "name": "Yenii",
+      "price": "55",
+      "imageUrl": "https://tse2.mm.bing.net/th?id=OIP.zdNB_W-JL8Q-3wN_vUZbxAHaEe&pid=Api&P=0",
+      "id": 10
+    },
+    {
+      "name": "My Product",
+      "price": "45",
+      "imageUrl": "https://tse3.mm.bing.net/th?id=OIP.fTaahdd3zS2DWyDRy-hIhgHaER&pid=Api&P=0",
+      "id": 11
+    },
+    {
+      "name": "Lambordgini",
+      "price": "100",
+      "imageUrl": "https://tse2.mm.bing.net/th?id=OIP.8VDvD73zMuGrFnAs-3OiKAHaE6&pid=Api&P=0",
+      "id": 12
+    },
+    {
+      "name": "FordMustang",
+      "price": "30",
+      "imageUrl": "https://tse1.mm.bing.net/th?id=OIP.wOYg2Hl80zjLsww9NqX4DQHaFK&pid=Api&P=0",
+      "id": 13
+    }
+  ],
+  "categories": [
+    {
+      "name": "ParentCategory",
+      "icon": "https://tse1.mm.bing.net/th?id=OIP.GnqZiwU7k5f_kRYkw8FNNwHaF3&pid=Api&P=0",
+      "id": 16
+    },
+    {
+      "name": "category",
+      "icon": "https://tse2.mm.bing.net/th?id=OIP.tjLnt2mRj9u2wRonymIyAAHaHa&pid=Api&P=0",
+      "id": 17
+    },
+    {
+      "name": "Namecategory",
+      "icon": "https://tse3.mm.bing.net/th?id=OIP.DtAXZz_xXU41VAVkrrNJswAAAA&pid=Api&P=0",
+      "id": 18
+    },
+    {
+      "name": "Itemssss",
+      "icon": "https://tse4.mm.bing.net/th?id=OIP.NaFqpnQ6WU2aE4g9ca0yzQHaE8&pid=Api&P=0",
+      "id": 19
+    },
+    {
+      "name": "MyCategory",
+      "icon": "https://tse4.mm.bing.net/th?id=OIP._58v5W5Z7JpYAh6EVLWunQHaFj&pid=Api&P=0",
+      "id": 20
+    }
+  ]
+}

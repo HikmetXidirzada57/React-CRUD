@@ -1,0 +1,72 @@
+a {
+    text-decoration: none !important;
+}
+
+#components-layout-demo-top-side-2 .logo {
+    float: left;
+    width: 120px;
+    height: 31px;
+    margin: 16px 24px 16px 0;
+    background: rgba(255, 255, 255, 0.3);
+}
+.label{
+    font-weight: 500;
+    color: #000;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    margin-bottom: 15px;
+    position: relative;
+    &::after{
+        content: '';
+        position: absolute;
+        background-color: #2222;
+        bottom: 0;
+        left: 0;
+        height: 2px;
+        width: 100%;
+    }
+}
+.table-background{
+    background-color: #fff;
+}
+ .blog-background{
+    background-color: #8EC5FC;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+ }
+.layout {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    font-size: 23px;
+}
+
+.border {
+    border-radius: 5px;
+}
+.spinner{
+    width: 100%;
+    position: relative;
+    left: 280%;
+  
+}
+.flex .flex-between {
+    -webkit-box-pack: space-between;
+    -ms-flex-pack: space-between;
+    justify-content: space-between;
+}
+
+.border-none{
+    border: none !important;
+}
+.f-20{
+font-size: 20px;
+font-weight: 600;
+margin-left: 6px;
+}
+.border-animated {
+    border: 1px solid #0000001f !important;
+    background-color: red;
+}
+
+.background-white {
+    background-color: #fff;
+}
